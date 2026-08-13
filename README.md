@@ -7,7 +7,7 @@ My current interests include software engineering, artificial intelligence, and 
 
 **Tools and Libraries**
 
-`Git` `pandas` `NumPy` `Matplotlib` `Visual Studio Code` `PyCharm` `Eclipse`
+`Git` `pandas` `NumPy` `Matplotlib` `Visual Studio Code` `PyCharm`
 
 ## What I'm Working On
 - Strengthening my Python, SQL, and software-development fundamentals
